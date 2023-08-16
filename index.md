@@ -1,7 +1,7 @@
 ---
 layout: courselist
 ---
-# Git Courseware - an Open Source approach to Textbook Publishing
+# Git Courseware - An Open Source Approach to Textbook Publishing
 
 Git Courseware is a [Jekyll Theme](https://jekyllrb.com) specifically designed for the creation and publishing of [OER Textbooks](https://www.lib.ncsu.edu/do/open-education). The theme has custom layouts and navigation design to allow course creators to create fully online textbooks with little or no code required while leveraging all of the features of GitHub's collaborative development process and version control.
 
